@@ -1,0 +1,6 @@
+#ifndef MINERS_CONFIG
+#define MINERS_CONFIG
+
+#define VERSION "@VERSION@"
+
+#endif
